@@ -1,0 +1,76 @@
+task 1:
+take an user input in integer and muliply it by 1o and print
+gaurav=10
+Gaurav_U=int(gaurav)*10
+print(Gaurav_U)
+
+
+task 2:
+take an user input in string and muliply it by 3
+gaurav = input("Entrepreneur")
+Gaurav_U = gaurav*3
+print(Gaurav_U)
+
+
+task 3:
+create a string and perform any 5 diff
+ernet funtions on it
+dc="mango, money, mall"
+DC=dc.endswith(dc)
+print(DC)
+
+dc=("got it, you have to get it")
+dc.count("it")
+print(dc.count)
+
+dc="jaun elia"
+DC=dc.1just(1)
+print(DC)
+
+dc="my name is khan"
+DC=dc.title()
+print(DC)
+
+dc="25525454"
+DC=dc.isdigit()
+print(DC)
+
+task 4:
+create a list and perform 5 funtions on it
+dc=['witer', 'actor', 'singer', 'cricketer']
+dc.insert(1, 'youtuber')
+
+dc = ['witer', 'actor', 'singer', 'cricketer']
+dc.reverse()
+print(dc)   
+
+dc = ['writer', 'actor', 'singer', 'cricketer']
+dc.pop(1)
+print(dc)
+
+dc = ['writer', 'actor', 'singer', 'cricketer']
+DC = dc.copy(dc)
+print(DC)
+
+dc = ['writer', 'actor', 'singer', 'cricketer']
+DC = dc.extend(writer)
+print(DC)
+
+task 5:
+create a tupple and perform 2 funtions on it.
+
+dc = ('writer', 'actor', 'singer', 'cricketer')
+DC= dc.__add__(dc)
+print(dc)
+
+
+dc = ('true', 'false')
+DC = dc.__len__()
+print(DC)
+
+
+task 6
+create a list by asking user for input and conver all the elememts into upper lettrs.
+
+
+
